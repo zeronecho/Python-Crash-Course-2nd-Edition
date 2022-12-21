@@ -4,5 +4,8 @@
 
 test="9"
 message="My favourite number is "+test+"."
+message2=f"My favourite number is {test}"
 
+# 有两种方法
 print(message)
+print(message2)
